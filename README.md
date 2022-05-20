@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @wurmpel
+- 👀 I’m interested in coding, gaming, phisics, IT stuff
+- 🌱 I’m currently learning C++, web development
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me
+  - marsmanhermen@gmail.com
+  - +31 06 81278962
